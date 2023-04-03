@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alex</h1>
 <h3 align="center">A frontend developer from Germany</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgalkin1994" alt="alexgalkin1994" /></a> </p>
-
 - 🔭 I’m currently working on [SonusAI](https://github.com/alexgalkin1994/SonusAI)
 
 - 🌱 I’m currently learning **Supabase**
