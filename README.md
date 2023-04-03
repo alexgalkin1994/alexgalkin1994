@@ -3,13 +3,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexgalkin1994" alt="alexgalkin1994" /></a> </p>
 
-- 🔭 I’m currently working on [PitchShift](https://pitchshift.fm/)
+- 🔭 I’m currently working on [SonusAI](https://github.com/alexgalkin1994/SonusAI)
 
-- 🌱 I’m currently learning **Three.js**
+- 🌱 I’m currently learning **Supabase**
 
-- 🎥 I regularly create videos at [https://www.tiktok.com/@codearete](https://www.tiktok.com/@codearete)
+- 🎥 Sometimes create videos at [https://www.tiktok.com/@codearete](https://www.tiktok.com/@codearete)
 
-- 💬 Ask me about **Vue, Docker, Express**
+- 💬 Ask me anything about **Vue**
 
 - 📫 How to reach me **alexgalkinofficial@gmail.com**
 
